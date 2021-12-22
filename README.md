@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PJandTeam
+- 👋 Hi, I’m Praveen Kumar
 - 👀 I’m interested in android development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on code
